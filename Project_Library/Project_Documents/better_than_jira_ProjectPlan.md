@@ -84,12 +84,12 @@ The application is primarily designed for students and Academic Teams. It can be
 
 | **Role**               | **Team Member Name**         |
 |------------------------|------------------------------|
-| Team Leader             | Victor Stafussi Granado       |
+| Team Leader             | Victor Stafussi Granado      |
 | Project Manager         | Grant                        |
 | Graphic Designer        | Kason                        |
 | Quality Assurance       | Alex Cordova                 |
 | Configuration Manager   | Dominic                      |
-| Documentation Manager   | TBD                          |
+| Documentation Manager   | Miguel Coelho                |
 
 ---
 
