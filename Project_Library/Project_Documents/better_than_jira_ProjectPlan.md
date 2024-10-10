@@ -12,7 +12,7 @@
 | Project Type                           | Selected               |
 |----------------------------------------|------------------------|
 | Android App using Java or Kotlin       |                        |
-| Web App using Django and Python        | X (Using React.js)     |
+| Web App using Angular & JS        | X (Using Angular)     |
 | Game using Python with Arcade or PyGame|                        |
 
 ---
